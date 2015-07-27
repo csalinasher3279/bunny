@@ -239,8 +239,8 @@ g.fillOval(434+200, 370, 20, 30);
 g.fillOval(474+200, 370, 20, 30);
 //eye circle
 g.setColor(Color.white);
-g.fillOval(434+200,378,10,10);
-g.fillOval(434+240,378,10,10);
+g.fillOval(434+205,378,10,10);
+g.fillOval(434+245,378,10,10);
 //
 g.setColor(Color.gray);
 g.fillOval(430+200, 480, 70, 90);
